@@ -1,0 +1,633 @@
+{
+    "1. Introduction": {
+        "marks": {
+            "questions": [2],
+            "total": 2
+        },
+        "contents": {
+            "hour": 2,
+            "1.1 History of Computer Graphics": {
+                "depth": [
+                    "D",
+                    "Des"
+                ]
+            },
+            "1.2 Application of Computer Graphics": {
+                "depth": [
+                    "A"
+                ]
+            }
+        }
+    },
+    "2. Graphics Hardware": {
+        "marks": {
+            "questions": [2, 4, 4],
+            "total": 10
+        },
+        "contents": {
+            "hour": 8,
+            "2.1 Input Hardware": {
+                "depth": [
+                    "Des"
+                ]
+            },
+            "2.1.1 Keyboard, Mouse (mechanical & optical), Light pen, Touch panel (Optical, Sonic, and Electrical), Digitizers (Electrical, Sonic, Resistive), Scanner, Joystick": {
+                "depth": [
+                    "Des"
+                ]
+            },
+            "2.2 Output Hardware": {
+                "depth": [
+                    "Des"
+                ]
+            },
+            "2.2.1 Monitors": {
+                "depth": [
+                    "Des"
+                ]
+            },
+            "2.2.1.1 Monochromatic CRT Monitors": {
+                "depth": [
+                    "Des"
+                ]
+            },
+            "2.2.1.2 Color CRT Monitors": {
+                "depth": [
+                    "Des"
+                ]
+            },
+            "2.2.1.3 Flat Panel Display Monitors": {
+                "depth": [
+                    "Des"
+                ]
+            },
+            "2.2.2 Hardcopy Devices": {
+                "depth": [
+                    "Des"
+                ]
+            },
+            "2.2.2.1 Plotters": {
+                "depth": [
+                    "Des"
+                ]
+            },
+            "2.2.2.2 Printers": {
+                "depth": [
+                    "Des"
+                ]
+            },
+            "2.3 Raster and Vector Display Architectures, Principles and Characteristics": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I"
+                ]
+            },
+            "2.4 Architecture of simple non-graphical display terminals": {
+                "depth": [
+                    "Des"
+                ]
+            },
+            "2.5 Architecture of graphical display terminals including frame buffer and color manipulation techniques": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I",
+                    "N"
+                ]
+            },
+            "2.6 Advanced raster graphic architecture": {
+                "depth": [
+                    "Des",
+                    "I"
+                ]
+            }
+        }
+    },
+    "3. Two Dimensional Algorithms and Transformations": {
+        "marks": {
+            "questions": [4, 8],
+            "total": 12
+        },
+        "contents": {
+            "hour": 10,
+            "3.1 Mathematical Line Drawing Concept": {
+                "depth": [
+                    "Des",
+                    "I"
+                ]
+            },
+            "3.2 Line Drawing Algorithms": {
+                "depth": [
+                    "Des",
+                    "I"
+                ]
+            },
+            "3.2.1 Digital Differential Analyzer (DDA)": {
+                "depth": [
+                    "Des",
+                    "DR",
+                    "I",
+                    "Alg",
+                    "P",
+                    "N"
+                ]
+            },
+            "3.2.2 Bresenham's Line Drawing Algorithm for m>1 and m<1": {
+                "depth": [
+                    "Des",
+                    "DR",
+                    "I",
+                    "Alg",
+                    "P",
+                    "N"
+                ]
+            },
+            "3.3 Mid-point Circle Drawing": {
+                "depth": [
+                    "Des",
+                    "DR",
+                    "I",
+                    "Alg",
+                    "P",
+                    "N"
+                ]
+            },
+            "3.4 Mid-point Ellipse Drawing Algorithm": {
+                "depth": [
+                    "Des",
+                    "DR",
+                    "I",
+                    "Alg",
+                    "P",
+                    "N"
+                ]
+            },
+            "3.5 Review of Matrix Operations – Addition and Multiplication": {
+                "depth": [
+                    "Des",
+                    "I"
+                ]
+            },
+            "3.6 Two-dimensional Transformations": {
+                "depth": [
+                    "Des",
+                    "I"
+                ]
+            },
+            "3.6.1 Translation": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "P",
+                    "N"
+                ]
+            },
+            "3.6.2 Scaling": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "P",
+                    "N"
+                ]
+            },
+            "3.6.3 Rotation": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "P",
+                    "N"
+                ]
+            },
+            "3.6.4 Reflection": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "P",
+                    "N"
+                ]
+            },
+            "3.6.5 Shearing": {
+                "depth": [
+                    "Des",
+                    "DR",
+                    "I",
+                    "P",
+                    "N"
+                ]
+            },
+            "3.7 Two-dimensional object to screen viewing transforms": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I",
+                    "Alg",
+                    "A"
+                ]
+            },
+            "3.8 Recent Transform Concept and advantages": {
+                "depth": [
+                    "Des",
+                    "I"
+                ]
+            }
+        }
+    },
+    "4. Windows, Viewport and Clipping": {
+        "marks": {
+            "questions": [2, 4, 4],
+            "total": 10
+        },
+        "contents": {
+            "hour": 6,
+            "4.1 Introduction": {
+                "depth": []
+            },
+            "4.2 Windows to Viewport Transformation": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "Alg",
+                    "P"
+                ]
+            },
+            "4.3 Viewing Transformation implementation": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I",
+                    "A"
+                ]
+            },
+            "4.4 Clipping": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I",
+                    "P",
+                    "A"
+                ]
+            },
+            "4.4.1 Point Clipping": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "Alg",
+                    "P"
+                ]
+            },
+            "4.4.2 Line Clipping": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I",
+                    "P"
+                ]
+            },
+            "4.4.2.1 Cohen Sutherland Line Clipping Algorithm": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "Alg",
+                    "P"
+                ]
+            },
+            "4.4.3 Polygon Clipping": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I",
+                    "A"
+                ]
+            },
+            "4.4.3.1 The Sutherland-Hodgman Polygon Clipping Algorithm": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "Alg"
+                ]
+            }
+        }
+    },
+    "5. Three Dimensional Graphics": {
+        "marks": {
+            "questions": [8, 8],
+            "total": 16
+        },
+        "contents": {
+            "hour": 14,
+            "5.1 Three-dimensions transformations": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I"
+                ]
+            },
+            "5.1.1 Translation": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "N"
+                ]
+            },
+            "5.1.2 Scaling": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "N"
+                ]
+            },
+            "5.1.3 Rotation": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "N"
+                ]
+            },
+            "5.1.4 Reflection": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "N"
+                ]
+            },
+            "5.2 Three-dimensions Projections": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "A"
+                ]
+            },
+            "5.2.1 Concept of Projection": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I"
+                ]
+            },
+            "5.2.2 Projection of 3D Objects onto 2D Display Devices": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "A"
+                ]
+            },
+            "5.2.3 Three-dimensional Projection Methods": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I"
+                ]
+            },
+            "5.2.3.1 Parallel Projection Method": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "A"
+                ]
+            },
+            "5.2.3.2 Perspective Projection Method": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "A"
+                ]
+            },
+            "5.3 Specialized and future three-dimensional display": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I"
+                ]
+            },
+            "5.4 Three-dimensional Object Representations": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I"
+                ]
+            },
+            "5.4.1 Polygon Surfaces": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I"
+                ]
+            },
+            "5.4.2 Polygon Tables": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I"
+                ]
+            },
+            "5.5 Introduction to Hidden Line and Hidden Surface Removal Techniques": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I"
+                ]
+            },
+            "5.5.1 Object Space Method": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "Alg"
+                ]
+            },
+            "5.5.2 Image Space Method": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "Alg"
+                ]
+            },
+            "5.6 Introduction to Illumination/Lighting Models": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I",
+                    "A"
+                ]
+            },
+            "5.7 Need for Shading in Engineering Data Visualization": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I",
+                    "A"
+                ]
+            },
+            "5.8 Introduction to Shading/Surface Rendering Models": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I",
+                    "A"
+                ]
+            },
+            "5.8.1 Constant Shading Model": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "Alg",
+                    "A"
+                ]
+            },
+            "5.8.2 Gouraud Shading Model": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "Alg",
+                    "A"
+                ]
+            },
+            "5.8.3 Phong Shading Model": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "DR",
+                    "I",
+                    "Alg",
+                    "A"
+                ]
+            }
+        }
+    },
+    "6. Graphics Language and Graphics Design Packages": {
+        "marks": {
+            "questions": [2, 4],
+            "total": 6
+        },
+        "contents": {
+            "hour": 4,
+            "6.1 Introduction to graphics file formats": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I"
+                ]
+            },
+            "6.2 Discussion of available graphical file formats": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I",
+                    "A"
+                ]
+            },
+            "6.3 Type, purposes and features of graphics packages": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I"
+                ]
+            },
+            "6.4 Examples of graphics packages and libraries": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I",
+                    "A"
+                ]
+            },
+            "6.5 Discussion of available graphical languages (PHIGS, GKS, PHIGS+)": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I"
+                ]
+            },
+            "6.6 Need for machine independent graphical languages": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I",
+                    "A"
+                ]
+            }
+        }
+    },
+    "7. Fundamentals of Animation Techniques": {
+        "marks": {
+            "questions": [],
+            "total": 0
+        },
+        "contents": {
+            "hour": 1,
+            "7.1 Introduction of Animation": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I"
+                ]
+            },
+            "7.1.1 Computer Animation Language": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I",
+                    "A"
+                ]
+            },
+            "7.1.1.1 Open GL Introduction": {
+                "depth": [
+                    "D",
+                    "Des",
+                    "I",
+                    "A"
+                ]
+            },
+            "7.1.1.2 Some examples of Open GL": {
+                "depth": [
+                    "I",
+                    "A"
+                ]
+            }
+        }
+    }
+}

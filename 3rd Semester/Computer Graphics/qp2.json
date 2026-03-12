@@ -1,0 +1,120 @@
+{
+    "exam_info": {
+        "university": "PURBANCHAL UNIVERSITY",
+        "year": "2023",
+        "level": "B.E. Computer/Third Semester/Final",
+        "time": "03:00 hrs.",
+        "full_marks": 60,
+        "pass_marks": 24,
+        "course_code": "BCE3008: Computer Graphics",
+        "instructions": [
+            "Candidates are required to give their answers in their own words as far as practicable.",
+            "The figures in the margin indicate full marks.",
+            "Attempt ALL questions."
+        ]
+    },
+    "groups": {
+        "Group A": {
+            "type": "Very short question",
+            "marks_distribution": "4x2=8",
+            "questions": [
+                {
+                    "number": 1,
+                    "text": "Define Computer Graphics. List applications of Computer Graphics in Engineering Education.",
+                    "marks": "1+1",
+                    "total_marks": 2
+                },
+                {
+                    "number": 2,
+                    "text": "Write the advantages of BLA over DDA algorithm for line drawing.",
+                    "marks": 2
+                },
+                {
+                    "number": 3,
+                    "text": "Define orthographic projection with examples.",
+                    "marks": 2
+                },
+                {
+                    "number": 4,
+                    "text": "Why phong method is better than Gouraud method in surface rendering?",
+                    "marks": 2
+                }
+            ]
+        },
+        "Group B": {
+            "type": "Short question",
+            "marks_distribution": "7x4=28",
+            "questions": [
+                {
+                    "number": 5,
+                    "text": "Explain shadow mask method for color manipulation with suitable diagram.",
+                    "marks": 4
+                },
+                {
+                    "number": 6,
+                    "text": "Write detail on 2-D rotation and reflection methods.",
+                    "marks": 4
+                },
+                {
+                    "number": 7,
+                    "text": "Define polygon table. Create a vertex table, edge table and surface table with suitable example.",
+                    "marks": "1+3",
+                    "total_marks": 4
+                },
+                {
+                    "number": 8,
+                    "text": "Write down Cohen-Sutherland (line Clipping) algorithm.",
+                    "marks": 4
+                },
+                {
+                    "number": 9,
+                    "text": "Explain window to viewport transformation in detail.",
+                    "marks": 4
+                },
+                {
+                    "number": 10,
+                    "text": "Draw a line between points A(2,3) and B(7,9) using Bresenham's algorithm.",
+                    "marks": 4
+                },
+                {
+                    "number": 11,
+                    "text": "Clip the given polygon by using Sutherland-Hodgman polygon clipping algorithm.",
+                    "marks": 4,
+                    "diagram": "Polygon ABCDE with clipping window"
+                },
+                {
+                    "number": 12,
+                    "text": "Explain scan line method for detecting visible surface area.",
+                    "marks": 2
+                }
+            ]
+        },
+        "Group C": {
+            "type": "Long question",
+            "marks_distribution": "3x8=20",
+            "questions": [
+                {
+                    "number": 13,
+                    "text": "Explain on Raster Scan and Vector Scan Architectures with neat diagrams.",
+                    "marks": 8
+                },
+                {
+                    "number": 14,
+                    "text": "Der. Bresenham's line drawing algorithm for slope m<1.",
+                    "marks": 8
+                },
+                {
+                    "number": 15,
+                    "text": "Explain Gouraud Shading methods in detail. Write advantages and disadvantages of Gouraud shading method.",
+                    "marks": "6+2",
+                    "total_marks": 8
+                },
+                {
+                    "number": 16,
+                    "text": "Why do we need the machine independent graphical language? Explain. Also list and explain various types of file format used is computer graphics.",
+                    "marks": 8
+                }
+            ]
+        }
+    }
+}

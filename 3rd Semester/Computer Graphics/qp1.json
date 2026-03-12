@@ -1,0 +1,114 @@
+{
+    "exam_info": {
+        "university": "PURRANCHAL UNIVERSITY",
+        "exam_type": "SEMESTER FINAL EXAM - 2082 (MODEL QUESTION)",
+        "level": "BACHELOR",
+        "program": "Bachelor in Computer Engineering",
+        "subject": "BCE---- Computer Graphics",
+        "semester": "III",
+        "full_marks": 60,
+        "pass_marks": 24,
+        "time": "03:00 hrs."
+    },
+    "groups": {
+        "Group A": {
+            "instruction": "Answer All Questions",
+            "marks_distribution": "4x2=8",
+            "questions": [
+                {
+                    "number": 1,
+                    "text": "Define Computer Graphics. Explain any one application of Computer Graphics in various real world with examples.",
+                    "marks": 2
+                },
+                {
+                    "number": 2,
+                    "text": "Differentiate between Bresenham and DDA algorithms.",
+                    "marks": 2
+                },
+                {
+                    "number": 3,
+                    "text": "How is the limitation of Random Scan Architecture overcome by Raster Scan Architecture?",
+                    "marks": 2
+                },
+                {
+                    "number": 4,
+                    "text": "What do you mean by hidden surface removal methods?",
+                    "marks": 2
+                }
+            ]
+        },
+        "Group B": {
+            "instruction": "Answer any Seven",
+            "marks_distribution": "7x4=28",
+            "questions": [
+                {
+                    "number": 5,
+                    "text": "Explain different types of touch panels in brief.",
+                    "marks": 4
+                },
+                {
+                    "number": 6,
+                    "text": "Write detail on 2-D rotation and reflection methods.",
+                    "marks": 4
+                },
+                {
+                    "number": 7,
+                    "text": "Explain window to viewport transformation.",
+                    "marks": 4
+                },
+                {
+                    "number": 8,
+                    "text": "Explain detail on Polygon Tables.",
+                    "marks": 4
+                },
+                {
+                    "number": 9,
+                    "text": "Write down Sutherland-Hodgeman (Polygon Clipping) algorithm.",
+                    "marks": 4
+                },
+                {
+                    "number": 10,
+                    "text": "Explain Specular Reflection Method in detail.",
+                    "marks": 4
+                },
+                {
+                    "number": 11,
+                    "text": "Why do we need machine independent graphical languages? Explain.",
+                    "marks": 4
+                },
+                {
+                    "number": 12,
+                    "text": "Draw a line between points A(-2,3) and B(3,5) using Bresenham's algorithm.",
+                    "marks": 4
+                }
+            ]
+        },
+        "Group C": {
+            "instruction": "Answer any three questions",
+            "marks_distribution": "3x8=24",
+            "questions": [
+                {
+                    "number": 13,
+                    "text": "Explain on Raster Scan and Vector Scan Architectures with neat diagrams.",
+                    "marks": 8
+                },
+                {
+                    "number": 14,
+                    "text": "Derive the mid-point circle generating algorithm.",
+                    "marks": 8
+                },
+                {
+                    "number": 15,
+                    "text": "Explain Gouraud and Phong Shading methods in detail.",
+                    "marks": "4+4",
+                    "total_marks": 8
+                },
+                {
+                    "number": 16,
+                    "text": "Describe reflection about the X-axis/plane YZ and reflect the point, P(4,7,5) about that axis using homogeneous coordinate form.",
+                    "marks": 8
+                }
+            ]
+        }
+    }
+}
